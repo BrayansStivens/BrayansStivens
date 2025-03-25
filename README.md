@@ -20,19 +20,19 @@
 <br>
 
 🧑‍💻 <strong>Lenguajes</strong><br><br>
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,bash" /><br><br>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cs,bash" /><br><br>
 
 🧱 <strong>Frameworks & Librerías</strong><br><br>
-<img src="https://skillicons.dev/icons?i=angular,react,astro,nestjs,nextjs,fastapi" /><br><br>
+<img src="https://skillicons.dev/icons?i=angular,react,astro,nestjs,nextjs,fastapi,net" /><br><br>
 
 🛠️ <strong>DevOps & Tools</strong><br><br>
-<img src="https://skillicons.dev/icons?i=docker,github,git,terraform,linux,vercel" /><br><br>
+<img src="https://skillicons.dev/icons?i=docker,github,githubactions,git,terraform,linux,vercel,figma,notion" /><br><br>
 
 ☁️ <strong>Cloud</strong><br><br>
 <img src="https://skillicons.dev/icons?i=azure,aws" /><br><br>
 
 🗄️ <strong>Bases de Datos</strong><br><br>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,dynamodb" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb,dynamodb" />
 
 </div>
 
