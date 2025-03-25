@@ -23,7 +23,7 @@
 <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cs,bash" /><br><br>
 
 🧱 <strong>Frameworks & Librerías</strong><br><br>
-<img src="https://skillicons.dev/icons?i=angular,react,astro,nestjs,nextjs,fastapi,net,spring" /><br><br>
+<img src="https://skillicons.dev/icons?i=angular,react,astro,nextjs,nestjs,fastapi,net,spring" /><br><br>
 
 🛠️ <strong>DevOps & Tools</strong><br><br>
 <img src="https://skillicons.dev/icons?i=docker,github,githubactions,git,terraform,linux,vercel,figma,notion" /><br><br>
