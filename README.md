@@ -5,7 +5,7 @@
 
 <div align="center">
 
-🧠 Creando soluciones completas: desde la idea hasta el despliegue, con enfoque en calidad, seguridad y escalabilidad.
+🧠 Creando soluciones completas: desde la idea hasta el despliegue, con enfoque en calidad, seguridad y escalabilidad.<br>
 🚀 Identifico, diseño y escalo soluciones técnicas aplicando lógica, automatización y buenas prácticas.  
 ⚙️ Trabajo con empresas y de forma independiente construyendo productos modernos, seguros y eficientes.
 
