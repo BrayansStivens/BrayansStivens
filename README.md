@@ -1,46 +1,59 @@
-<h1 align="center">Hola, soy Brayan</h1>
-<h3 align="center">Full Stack Developer-SecOps.</h3>
+<h1 align="center">🛠️ Hola, soy Brayan</h1>
+<h3 align="center">Full Stack Developer & SecOps 🔐 | Desarrollo seguro y escalable</h3>
 
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96"> 
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="Git" />
-      <br>GitHub Actions
-    </td>             
- </tr>
-</table>
+---
+
+<div align="center">
+
+🧠 Creando soluciones completas: desde la idea hasta el despliegue, con enfoque en calidad, seguridad y escalabilidad.
+🚀 Identifico, diseño y escalo soluciones técnicas aplicando lógica, automatización y buenas prácticas.  
+⚙️ Trabajo con empresas y de forma independiente construyendo productos modernos, seguros y eficientes.
+
 </div>
 
-<div style="text-align: center;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/otaviossousa/otaviossousa/blob/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/otaviossousa/otaviossousa/blob/output/github-snake.svg" />
-    <img alt="github-snake" src="https://github.com/otaviossousa/otaviossousa/blob/output/ocean.gif" />
-  </picture>
+---
+
+### 🧰 Stack Técnico
+
+<div align="center">
+
+<br>
+
+🧑‍💻 <strong>Lenguajes</strong><br><br>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,bash" /><br><br>
+
+🧱 <strong>Frameworks & Librerías</strong><br><br>
+<img src="https://skillicons.dev/icons?i=angular,react,astro,nestjs,nextjs,fastapi" /><br><br>
+
+🛠️ <strong>DevOps & Tools</strong><br><br>
+<img src="https://skillicons.dev/icons?i=docker,github,git,terraform,linux,vercel" /><br><br>
+
+☁️ <strong>Cloud</strong><br><br>
+<img src="https://skillicons.dev/icons?i=azure,aws" /><br><br>
+
+🗄️ <strong>Bases de Datos</strong><br><br>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,dynamodb" />
+
 </div>
 
+
+---
+
+### 📫 Contacto
+<div align="center">
+  <a href="https://www.linkedin.com/in/brayansstivens/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Brayan%20Stivens-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="mailto:brayanstivens66@gmail.com">
+    <img src="https://img.shields.io/badge/Email-brayanstivens66@gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+</div>
+
+---
+
+<!-- Snake animation opcional (puede quitarse si no lo querés) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="snake-animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
